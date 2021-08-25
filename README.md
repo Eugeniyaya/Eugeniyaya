@@ -51,7 +51,7 @@ https://jivoservice.ru/ <br>
 
  
 #### Связаться со мной: <br>
-&#128222; 8-903-294-31 <br> 
+&#128222; 8-903-294-31-25 <br> 
 &#9993; eugeniyaya@list.ru <br>
 Telegram: @Eugeniyaya_S (https://t.me/Eugeniyaya_S)
 
