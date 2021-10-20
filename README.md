@@ -18,7 +18,7 @@ https://github.com/Eugeniyaya/coach_psy - проект в работе на да
 Макет - https://www.figma.com/file/iIrNG6QYLqOwhvBPstjfRC/Valentina_coach_psy?node-id=395%3A318 <br>
 <br>
 <br>
-<b>Доктор принтер: страница ремонта принтеров</b><br>
+<b>Доктор принтер:</b> страница ремонта принтеров<br>
 https://www.dr-printer.ru/repair_printer <br>
 Первый опыт в коммерческой разработке. Верстала одну страницу, отображение которой накладывается модулем сверху другого содержимого, из-за чего присутствует секундное мелькание, победить которое пока руки не доходят. (Сайт на CMS Opencart).
 <br>
@@ -39,6 +39,7 @@ https://eugeniyaya.github.io/eugeniyaya-technomart-26/ <br>
 Первый проект в верстке. Учебный. На курсе HTML/CSS от HTML-academy.
 <br>
 <br>
+
 ### Инструменты и технологии, которыми владею (в разной степени):
 ![HTML](https://img.shields.io/badge/-HTML-FFEE56?style-for-the-badge&logo=html5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +49,7 @@ https://eugeniyaya.github.io/eugeniyaya-technomart-26/ <br>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF7C00?style=plastic&logo=illustrator)<br><br>
 ![Git](https://img.shields.io/badge/-Git-ebebeb?=plastic&logo=git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F2D6FF?=plastic&logo=bootstrap)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![W3C](https://img.shields.io/badge/-W3C-6486FF?=plastic&logo=w3c)
+![W3C](https://img.shields.io/badge/-W3C-6486FF?=plastic&logo=w3c);
 <br>
 <br>
 
