@@ -49,7 +49,7 @@ https://eugeniyaya.github.io/eugeniyaya-technomart-26/ <br>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF7C00?style=plastic&logo=illustrator)<br><br>
 ![Git](https://img.shields.io/badge/-Git-ebebeb?=plastic&logo=git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-F2D6FF?=plastic&logo=bootstrap)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![W3C](https://img.shields.io/badge/-W3C-6486FF?=plastic&logo=w3c);
+![W3C](https://img.shields.io/badge/-W3C-6486FF?=plastic&logo=w3c)
 <br>
 <br>
 
