@@ -20,10 +20,16 @@
 #### Последние проекты:<br>
 https://valentina-psy.ru/     Дизайн, верстка, посадка на cms Wordpress (своя тема, не шаблон).<br>
 https://stomadent.ca/         Дизайн, посадка на cms Wordpress (шаблон) + дизайн pdf файлов в блоке по уходу за изделиями.<br>
-<br>
-## В настоящий момент ищу проектную работу или частичную занятость (9-17) гибрид офис/удаленка Москва.
+Плюс репозитории на гитхабе - только верстка:<br>
+https://eugeniyaya.github.io/dog_spa/  <br>
+https://eugeniyaya.github.io/everyday_digital_agency/ <br>
+https://eugeniyaya.github.io/everyday_CloudBudget/<br>
+https://eugeniyaya.github.io/everyday_persona/<br>
+https://eugeniyaya.github.io/everyday_user_card/<br>
 
-#### Связаться со мной: <br>
+### В настоящий момент ищу проектную работу или частичную занятость (9-17) гибрид офис/удаленка Москва. <br>
+
+### Связаться со мной: <br>
 
 &#9993; eugeniyaya@list.ru <br>
 Telegram: @Eugeniyaya_S (https://t.me/Eugeniyaya_S)
