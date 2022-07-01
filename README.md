@@ -1,5 +1,5 @@
 # Привет! Меня зовут Евгения. 
-### Web-дизайнер, верстальщик.  
+### Web-дизайнер, верстальщик, web-мастер. 
 ### figma, photoshop, html, css, js(на минималках), sass, git, ullustrator, SEO, Wordpress. 
 
 
